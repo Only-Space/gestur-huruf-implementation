@@ -1,0 +1,36 @@
+# Folder Lingkungan Virtual (Virtual Environments)
+/env/
+/venv/
+/.venv/
+/ENV/
+/VENV/
+/.VENV/
+/env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File-file spesifik IDE/Editor
+.vscode/
+.idea/
+*.swp
+
+# File dependensi
+pip-freeze.txt
+requirements.txt
+# (Hapus 'requirements.txt' jika Anda ingin file ini dilacak)
+
+# File build dan distribusi
+/build/
+/dist/
+*.egg-info/
+
+# File Notebook Checkpoints
+.ipynb_checkpoints/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
