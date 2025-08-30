@@ -6,6 +6,8 @@
 /VENV/
 /.VENV/
 /env/
+/ekstrakted/
+/dataset/
 
 # Python cache
 __pycache__/
